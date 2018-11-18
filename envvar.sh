@@ -1,5 +1,5 @@
-banner="Facebook Contacts Sync Enabler";
-apklist="ContactsProvider.apk";
-apkbak=/data/media/APK-Backup;
+banner="";
+apklist="";
+apkbak=/data/media/0//APK-Backup;
 backup=1;
 cleanup=1;
